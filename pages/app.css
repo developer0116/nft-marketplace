@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(https://i.ibb.co/BcfgWTH/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+/* #NiceAndSimple: Main - margin:auto */
+
+
+a {
+  color: #00CED1;
+  transition: all 0.2s;
+}
+a:hover {
+  opacity: 0.6;
+}
+a:active {
+  opacity: 1;
+}
